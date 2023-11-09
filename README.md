@@ -1,2 +1,7 @@
-# estrutura_de_dados
-Repositório da disciplina de Estrutura de Dados do curso Sistemas para Internet.
+## Estrutura de Dados
+
+Esse projeto é composto pelos exercícios desenvolvidos na disciplina de Estrutura de Dados ministrada pelo professor Paulo Henrique Asconavieta.
+
+### Tecnologias
+
+Linguagem C.
